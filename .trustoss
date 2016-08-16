@@ -1,0 +1,20 @@
+{
+ "trustoss": "0.1.2",
+ "name": "lint-api",
+ "repository": "https://github.com/trustoss/lint-api.git",
+ "status": "discovery",
+ "contact": "Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>",
+ "homepage": "http://trustoss.org",
+ "docroot": "docs/",
+ "readme": "TrustOSS v0.1",
+ "contributing": "Contribute.md",
+ "license": "MIT",
+ "changelog": "keepachangelog",
+ "coc": "Contributor Covenant",
+ "assets": "./.assets",
+ "readme_location": "../README.md",
+ "contributing_location": "CONTRIBUTING.md",
+ "license_location": "LICENSE.md",
+ "changelog_location": "CHANGELOG.md",
+ "coc_location": "CODEOFCONDUCT.md"
+}

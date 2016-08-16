@@ -1,0 +1,22 @@
+{
+  "name": "lint-api",
+  "version": "0.0.1",
+  "description": "A Node server that trustoss-lints Github repositories",
+  "main": "api.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustoss/lint-api.git"
+  },
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustoss/lint-api/issues"
+  },
+  "homepage": "https://github.com/trustoss/lint-api#readme"
+}
